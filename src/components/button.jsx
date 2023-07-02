@@ -1,5 +1,7 @@
 const button = (props) => (
-  <button className="bg-yellow text-primary px-[40px] py-[15px]">
+  <button
+    className={`bg-yellow text-primary py-[15px] font-bold font-poppins ${props.mt} ${props.px}`}
+  >
     {props.title}
   </button>
 );
