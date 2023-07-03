@@ -1,9 +1,10 @@
-import { Menu, Navbar } from "./components";
+import { Menu, Navbar, Services } from "./components";
 
 const App = () => (
   <>
     <Navbar />
     <Menu />
+    <Services />
   </>
 );
 

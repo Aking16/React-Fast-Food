@@ -10,7 +10,7 @@ const menu = () => (
     <p className={`${styles.paragraph} text-yellow font-semibold`}>TOP FOODS</p>
     <h2 className={`${styles.heading2} font-bold`}>Our Categories</h2>
 
-    <div className="flex flex-row">
+    <div className={`${styles.flexCenter} flex-wrap`}>
       {categories.map((category) => (
         <MenuCard key={category.id} {...category} />
       ))}
