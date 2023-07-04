@@ -5,7 +5,7 @@ import { categories } from "../constants";
 const menu = () => (
   <section
     id="menu"
-    className={`${styles.container} ${styles.flexCenter} flex-col mt-[15rem]`}
+    className={`${styles.container} ${styles.flexCenter} flex-col mt-20 sm:mt-[10rem] md:mt-[18rem]`}
   >
     <p className={`${styles.paragraph} text-yellow font-semibold`}>TOP FOODS</p>
     <h2 className={`${styles.heading2} font-bold`}>Our Categories</h2>

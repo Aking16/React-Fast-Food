@@ -4,7 +4,7 @@ import styles from "../styles";
 const services = () => (
   <section className={`${styles.container} bg-yellow mt-10`}>
     <div
-      className={`${styles.flexCenter} flex-col justify-between pt-10 md:flex-row font-poppins text-center text-primary`}
+      className={`${styles.flexCenter} flex-col justify-between py-10 md:flex-row font-poppins text-center text-primary`}
     >
       <div className="flex flex-col justify-center items-center">
         <img

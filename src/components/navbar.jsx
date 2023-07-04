@@ -70,9 +70,9 @@ const navbar = () => {
         </h2>
         <div className="hidden flex-row items-center mt-10 md:flex">
           <div
-            class={`relative w-[8rem] h-[8rem] bg-yellow rounded-full ${styles.flexCenter} text-center p-5 shadow-xl text-[20px] font-bold xl:text-[42px] xl:w-[14rem] xl:h-[14rem]`}
+            className={`relative w-[8rem] h-[8rem] bg-yellow rounded-full ${styles.flexCenter} text-center p-5 shadow-xl text-[20px] font-bold xl:text-[42px] xl:w-[14rem] xl:h-[14rem]`}
           >
-            <span class="absolute text-[4.5rem] left-0 top-0 text-red-600 leading-none font-semibold xl:text-[8rem]">
+            <span className="absolute text-[4.5rem] left-0 top-0 text-red-600 leading-none font-semibold xl:text-[8rem]">
               !
             </span>
             20% Discount
@@ -87,10 +87,7 @@ const navbar = () => {
           px="px-[60px]"
         />
 
-        <img
-          src={heroimg}
-          className="w-full absolute top-0 right-0 z-[-10] md:h-screen object-cover"
-        />
+        <img src={heroimg} className="w-full absolute top-0 right-0 z-[-10]" />
       </section>
     </>
   );

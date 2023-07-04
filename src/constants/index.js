@@ -1,4 +1,12 @@
-import { pizza, pasta, shakes, burger } from "../assets";
+import {
+  pizza,
+  pasta,
+  shakes,
+  burger,
+  location1,
+  location2,
+  location3,
+} from "../assets";
 
 export const navLinks = [
   {
@@ -47,5 +55,23 @@ export const categories = [
     title: "Burger",
     num: "25 Restaurants Foods",
     image: burger,
+  },
+];
+
+export const locations = [
+  {
+    id: "location1",
+    location: "762 Fulton St San Francisco, California(CA), 94102",
+    image: location1,
+  },
+  {
+    id: "location2",
+    location: "66 Ceres St San Francisco, California(CA), 94124",
+    image: location2,
+  },
+  {
+    id: "location3",
+    location: "766 Sutter St San Francisco, California(CA), 94109",
+    image: location3,
   },
 ];
