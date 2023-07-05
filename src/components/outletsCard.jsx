@@ -7,7 +7,7 @@ const menuCard = ({ image, location }) => (
   >
     <img src={image} />
     <img src={locationmark} className="mt-5" />
-    <p className="text-[20px] font-bold w-[80%] cursor-pointer hover:text-yellow mt-2">
+    <p className="text-[20px] font-bold w-[80%] cursor-pointer hover:text-yellow mt-2 mb-10">
       {location}
     </p>
   </div>

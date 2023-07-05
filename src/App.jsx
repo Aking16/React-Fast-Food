@@ -1,4 +1,12 @@
-import { Menu, Navbar, Offer, Outlets, Services } from "./components";
+import {
+  About,
+  Menu,
+  Mobile,
+  Navbar,
+  Offer,
+  Outlets,
+  Services,
+} from "./components";
 
 const App = () => (
   <>
@@ -7,6 +15,8 @@ const App = () => (
     <Services />
     <Outlets />
     <Offer />
+    <About />
+    <Mobile />
   </>
 );
 

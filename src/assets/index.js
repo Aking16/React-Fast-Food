@@ -15,6 +15,13 @@ import locationmark from "./locationmarker.svg";
 import offerImg from "./offerImg.png";
 import offerImg2 from "./offerImg2.png";
 import offerImg3 from "./offerImg3.png";
+import headchef from "./headchef.png";
+import souschef from "./souschef.png";
+import chef from "./chef.png";
+import juniorchef from "./juniorchef.png";
+import mobileimg from "./mobileimage.png";
+import apple from "./apple.png";
+import googleplay from "./googleplay.png";
 
 export {
   heroimg,
@@ -34,4 +41,11 @@ export {
   offerImg,
   offerImg2,
   offerImg3,
+  headchef,
+  souschef,
+  chef,
+  juniorchef,
+  mobileimg,
+  apple,
+  googleplay,
 };
