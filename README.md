@@ -2,7 +2,7 @@
 
 WIP
 
-<a href="https://aking16.github.io/React-Architecture-Firm/">View Demo</a>
+<a href="#">View Demo</a>
 
 
 ### Built With
