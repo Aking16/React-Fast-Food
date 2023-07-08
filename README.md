@@ -1,60 +1,9 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+WIP
 
-<br />
-<div align="center">
-  <a href="https://github.com/Aking16/React-Architecture-Firm">
-    <img src="thumbnail.png" alt="Logo">
-  </a>
+<a href="https://aking16.github.io/React-Architecture-Firm/">View Demo</a>
 
-  <h3 align="center">React Architecture Firm Template</h3>
-
-  <p align="center">
-    A template for react with Tailwind CSS!
-    <br />
-    <br />
-    <a href="https://aking16.github.io/React-Architecture-Firm/">View Demo</a>
-    ·
-    <a href="https://github.com/Aking16/React-Architecture-Firm/issues">Report Bug</a>    
-  </p>
-</div>
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-## About The Project
-
-[![Website Screen Shot][website-screenshot]](https://aking16.github.io/React-Architecture-Firm/)
-
-A template website made with React and tailwind CSS. Created this template in order to practice react personally, but feel free to use it for yourself!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
