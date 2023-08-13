@@ -164,7 +164,7 @@ Credits to;
 [issues-shield]: https://img.shields.io/github/issues/Aking16/React-Fast-Food.svg?style=for-the-badge
 [issues-url]: https://github.com/Aking16/React-Fast-Food/issues
 [license-shield]:  https://img.shields.io/github/license/Aking16/React-Fast-Food.svg?style=for-the-badge
-[license-url]: https://github.com/Aking16/React-Architecture-Firm/blob/master/LICENSE
+[license-url]: https://github.com/Aking16/React-Fast-Food/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/amirhossein-amiri016/
 [website-screenshot]: preview.png
