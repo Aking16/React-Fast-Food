@@ -22,6 +22,10 @@ import juniorchef from "./juniorchef.png";
 import mobileimg from "./mobileimage.png";
 import apple from "./apple.png";
 import googleplay from "./googleplay.png";
+import logo1 from "./chefgantenglogo.png";
+import logo2 from "./foodcheflogo.png";
+import logo3 from "./lezatozlogo.png";
+import logo4 from "./tastyfoodlogo.png";
 
 export {
   heroimg,
@@ -48,4 +52,8 @@ export {
   mobileimg,
   apple,
   googleplay,
+  logo1,
+  logo2,
+  logo3,
+  logo4,
 };

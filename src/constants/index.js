@@ -106,3 +106,69 @@ export const team = [
     image: juniorchef,
   },
 ];
+
+export const footerLinks = [
+  {
+    title: "ABOUT US",
+    links: [
+      {
+        name: "Our Story",
+        link: "/our-story/",
+      },
+      {
+        name: "Our Locations",
+        link: "/our-locations/",
+      },
+      {
+        name: "Current Deals",
+        link: "/deals/",
+      },
+      {
+        name: "Contact Us",
+        link: "/contacts/",
+      },
+    ],
+  },
+  {
+    title: "OUR MENU",
+    links: [
+      {
+        name: "Pizza",
+        link: "/menu/pizza",
+      },
+      {
+        name: "Pasta",
+        link: "/menu/pasta",
+      },
+      {
+        name: "Dessert",
+        link: "/menu/dessert",
+      },
+      {
+        name: "Take & Bake",
+        link: "/menu/bake",
+      },
+    ],
+  },
+  {
+    title: "OUR LOCATION",
+    links: [
+      {
+        name: "The FOODMOOD Rome",
+        link: "/our-locations/rome",
+      },
+      {
+        name: "The FOODMOOD Madrid",
+        link: "/our-locations/madrid",
+      },
+      {
+        name: "The FOODMOOD Paris",
+        link: "/our-locations/paris",
+      },
+      {
+        name: "The FOODMOOD Miami",
+        link: "/our-locations/miami",
+      },
+    ],
+  },
+];

@@ -6,5 +6,18 @@ import Outlets from "./outlets";
 import Offer from "./offer";
 import About from "./about";
 import Mobile from "./mobile";
+import Logos from "./logos";
+import Footer from "./footer";
 
-export { Navbar, Button, Menu, Services, Outlets, Offer, About, Mobile };
+export {
+  Navbar,
+  Button,
+  Menu,
+  Services,
+  Outlets,
+  Offer,
+  About,
+  Mobile,
+  Logos,
+  Footer,
+};

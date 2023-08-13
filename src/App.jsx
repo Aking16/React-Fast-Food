@@ -1,5 +1,7 @@
 import {
   About,
+  Footer,
+  Logos,
   Menu,
   Mobile,
   Navbar,
@@ -7,9 +9,10 @@ import {
   Outlets,
   Services,
 } from "./components";
+import { BrowserRouter } from "react-router-dom";
 
 const App = () => (
-  <>
+  <BrowserRouter>
     <Navbar />
     <Menu />
     <Services />
@@ -17,7 +20,9 @@ const App = () => (
     <Offer />
     <About />
     <Mobile />
-  </>
+    <Logos />
+    <Footer />
+  </BrowserRouter>
 );
 
 export default App;
