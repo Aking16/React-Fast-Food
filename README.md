@@ -156,13 +156,13 @@ Credits to;
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Aking16/React-Fast-Food.svg?style=for-the-badge
-[contributors-url]: https://github.com/Aking16/React-Architecture-Firm/graphs/contributors
+[contributors-url]: https://github.com/Aking16/React-Fast-Food/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Aking16/React-Fast-Food.svg?style=for-the-badge
-[forks-url]: https://github.com/Aking16/React-Architecture-Firm/network/members
+[forks-url]: https://github.com/Aking16/React-Fast-Food/network/members
 [stars-shield]: https://img.shields.io/github/stars/Aking16/React-Fast-Food.svg?style=for-the-badge
-[stars-url]: https://github.com/Aking16/React-Architecture-Firm/stargazers
+[stars-url]: https://github.com/Aking16/React-Fast-Food/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Aking16/React-Fast-Food.svg?style=for-the-badge
-[issues-url]: https://github.com/Aking16/React-Architecture-Firm/issues
+[issues-url]: https://github.com/Aking16/React-Fast-Food/issues
 [license-shield]:  https://img.shields.io/github/license/Aking16/React-Fast-Food.svg?style=for-the-badge
 [license-url]: https://github.com/Aking16/React-Architecture-Firm/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
