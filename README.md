@@ -1,21 +1,77 @@
 <a name="readme-top"></a>
 
-WIP
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<a href="#">View Demo</a>
+<br />
+<div align="center">
+  <a href="https://github.com/Aking16/React-Fast-Food">
+    <img src="thumbnail.png" alt="Logo">
+  </a>
+
+  <h3 align="center">React Fast Food Template</h3>
+
+  <p align="center">
+    A template for react with Tailwind CSS!
+    <br />
+    <br />
+    <a href="https://aking16.github.io/React-Fast-Food/">View Demo</a>
+    ·
+    <a href="https://github.com/Aking16/React-Fast-Food/issues">Report Bug</a>    
+  </p>
+</div>
+
+
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+## About The Project
+
+[![Website Screen Shot][website-screenshot]](https://aking16.github.io/React-Fast-Food/)
+
+A template website made with React and tailwind CSS. Created this template in order to practice react personally, but feel free to use it for yourself! 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ### Built With
 
-- [![React][React.js]][React-url]
-- [![Vite][Vite.js]][Vite-url]
-- [![Tailwind][Tailwind.css]][Tailwind-url]
-- [![Swiper][Swiper.js]][Swiper-url]
+* [![React][React.js]][React-url]
+* [![Vite][Vite.js]][Vite-url]
+* [![Tailwind][Tailwind.css]][Tailwind-url]
+* [![React-Router][React-Router]][React-Router-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
+
+<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -23,17 +79,17 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 Install Node Package Manager or npm if you don't have it on your device.
-
-- npm
+* npm
   ```sh
   npm install npm@latest -g
   ```
+
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Aking16/React-Architecture-Firm.git
+   git clone https://github.com/Aking16/React-Fast-Food.git
    ```
 2. Install NPM packages
    ```sh
@@ -45,6 +101,9 @@ Install Node Package Manager or npm if you don't have it on your device.
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 ## Contributing
 
@@ -61,44 +120,50 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
+
+<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
 ## Contact
 
 My Discord - akingg
 
-Project Link: https://github.com/Aking16/React-Architecture-Firm
+Project Link: https://github.com/Aking16/React-Fast-Food
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## Acknowledgments
 
 Credits to;
 
-- [Md Mehedi Hasan](https://www.figma.com/@mdmehedihasan1) for creating the UI.
-- [Figma of the UI](https://www.figma.com/community/file/1180872217452055204)
-- [Img Shields](https://shields.io)
+* [Md Mehedi Hasan](https://www.figma.com/@mdmehedihasan1) for creating the UI.
+* [Figma of the UI](https://www.figma.com/community/file/1180872217452055204)
+* [Img Shields](https://shields.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/Aking16/React-Architecture-Firm.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Aking16/React-Fast-Food.svg?style=for-the-badge
 [contributors-url]: https://github.com/Aking16/React-Architecture-Firm/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Aking16/React-Architecture-Firm.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Aking16/React-Fast-Food.svg?style=for-the-badge
 [forks-url]: https://github.com/Aking16/React-Architecture-Firm/network/members
-[stars-shield]: https://img.shields.io/github/stars/Aking16/React-Architecture-Firm.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Aking16/React-Fast-Food.svg?style=for-the-badge
 [stars-url]: https://github.com/Aking16/React-Architecture-Firm/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Aking16/React-Architecture-Firm.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Aking16/React-Fast-Food.svg?style=for-the-badge
 [issues-url]: https://github.com/Aking16/React-Architecture-Firm/issues
-[license-shield]: https://img.shields.io/github/license/Aking16/React-Architecture-Firm.svg?style=for-the-badge
+[license-shield]:  https://img.shields.io/github/license/Aking16/React-Fast-Food.svg?style=for-the-badge
 [license-url]: https://github.com/Aking16/React-Architecture-Firm/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/amirhossein-amiri016/
@@ -109,5 +174,5 @@ Credits to;
 [Tailwind-url]: https://tailwindcss.com
 [Vite.js]: https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev
-[Swiper.js]: https://img.shields.io/badge/-swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white
-[Swiper-url]: https://swiperjs.com/react
+[React-Router]: https://img.shields.io/badge/-reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white
+[React-Router-url]: https://reactrouter.com/en/main
